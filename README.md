@@ -24,3 +24,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aline-eng&show_icons=true&locale=en" alt="aline-eng" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aline-eng&" alt="aline-eng" /></p>
+
+
+<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aline-eng&show_icons=true" />
+</p>
+
+<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aline-eng&layout=compact" />
+</p>
