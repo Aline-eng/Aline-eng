@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aline-eng" alt="aline-eng" /></a> </p>
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=aline-eng&theme=oldie" /></p>
 
 - 🌱 I’m currently learning **Fullstack development**
 - Got you there🔥
