@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aline-eng" alt="aline-eng" /></a> </p>
 
 
-- 🌱 I’m currently learning **Fullstack development**
+- 🌱 I’m **Fullstack developer**
 - Got you there🔥
 - 📫 How to reach me **alinenzikwinkunda@gmail.com**
 
