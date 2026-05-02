@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aline Nzikwinkunda</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Developer(full-stack developer)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aline-eng&label=Profile%20views&color=0e75b6&style=flat" alt="aline-eng" /> </p>
 
